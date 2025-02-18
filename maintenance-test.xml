@@ -12,6 +12,7 @@
       <key>abcdef123456</key>
       <rateLimit>1000</rateLimit>
     </api>
+    <enableDebugMode>true</enableDebugMode>
     <logging>
         <level>DEBUG</level>
         <file>/var/log/myapp.log</file>
@@ -19,7 +20,7 @@
     <features>
       <feature name="userAuthentication">1</feature>
       <feature name="emailNotifications">false</feature>
-      <feature name="dataExport">true</feature>  
+      <feature name="dataExport">true</feature>
       <feature name="newFeature">false</feature>
     </features>
     <ui>
