@@ -60,10 +60,10 @@ deployed to a staging server. Describe the steps you would take to deploy this a
 
 To deploy a small web application (HTML/CSS/JavaScript) to a staging server, I would follow these steps:
 
-### Deploying a Small Web Application (JavaScript) to Firebase Hosting
+### Deploying a Web Application (JavaScript) to Firebase Hosting
 
 #### 1. **Clone the Existing Git Repository**
-   - Open the terminal and navigate to the desired project location.
+   - Open a terminal and navigate to the desired project location.
    - Use the following command to clone the existing repository:
 
      ```bash
